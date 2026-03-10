@@ -1,5 +1,3 @@
-# theladydothcodetoomuch.github.io
-
 # 📊 Data Portfolio | Deborah Ike
 > **Data Professional specializing in Data Analysis**
 
