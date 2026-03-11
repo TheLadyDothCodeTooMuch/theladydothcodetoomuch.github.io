@@ -1,6 +1,6 @@
 <table>
   <tr>
-    <td><img src="https://github.com/yourusername.png" width="150" style="border-radius: 50%;"></td>
+    <td><img src="https://github.com/TheLadyDothCodeTooMuch/theladydothcodetoomuch.github.io/blob/main/profile_picture.jpg" width="150" style="border-radius: 50%;"></td>
     <td>
       <h1>Deborah Ike</h1>
       <p><b>Data Professional | Insights & Analytics</b></p>
