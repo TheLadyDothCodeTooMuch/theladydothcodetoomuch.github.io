@@ -38,13 +38,7 @@ Welcome to my project showcase. I focus on translating complex datasets into act
 
 ---
 
-## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
----
-
 ## 📫 Let's Connect
-* **LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/deborah-i-7772a6a3?)
-* **Email:** [your.email@example.com](mailto:chikadeborahike@gmail.com)
-* **Portfolio Site:** [yourwebsite.com](theladydothcodetoomuch.github.io)
+* **LinkedIn:** [linkedin.com/in/deborah-ike](https://www.linkedin.com/in/deborah-i-7772a6a3?)
+* **Email:** [chikadeborahike@gmail.com](mailto:chikadeborahike@gmail.com)
+* **Portfolio Site:** [theladydothcodetoomuch](theladydothcodetoomuch.github.io)
