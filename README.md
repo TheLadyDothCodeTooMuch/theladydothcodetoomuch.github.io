@@ -17,17 +17,17 @@ Welcome to my project showcase. I focus on translating complex datasets into act
 
 ## 🚀 Featured Projects
 
-### 1. Financial-Fraud-Forensic-Analytics
+### 1. Financial Fraud Forensic Analytics - LOL Bank Pvt. Ltd
 **The Problem:** LOL Bank Pvt. Ltd. struggled to identify specific patterns in fraudulent activity because their transaction data was disorganized and lacked clear insights into when or how customers were being targeted.
 * **Key Achievement:** Delivered actionable intelligence that pinpointed the exact times and customer groups most vulnerable to scams, allowing the bank to focus its security resources on high-risk areas to prevent financial loss.
 * **Tech Stack:** `Python (Pandas)`, `SQL`, `Tableau`
 * **[🔗 View Repository](https://github.com/TheLadyDothCodeTooMuch/Transaction-Processing-Fraud-Analysis-System.git)** 
 
-### 2. [Project Title Two]
-**The Problem:** [Describe the dataset and the specific goal, e.g., "Predicting customer churn using historical behavior data."]
-* **Key Achievement:** Developed a model with **XX% accuracy**, identifying the top 3 drivers of [Result].
-* **Tech Stack:** `R (Tidyverse)`, `Power BI`, `Google Cloud Platform`
-* **[🔗 View Repository](https://github.com/yourusername/project2)**
+### 2. E-Commerce Growth & Customer Intelligence - OmniMart
+**The Problem:** OmniMart lacked visibility into how different age demographics and geographic regions contributed to overall revenue, leading to inefficient marketing and inventory allocation.
+* **Key Achievement:** Identified the specific age groups and geographic regions driving the highest revenue, enabling the business to optimize product availability and marketing focus for top-performing markets.
+* **Tech Stack:** `Python (Pandas, SQLAlchemy)`, `SQL`, `Power BI`
+* **[🔗 View Repository](https://github.com/TheLadyDothCodeTooMuch/OmniMart_Store_Analysis.git)**
 
 ### 3. [Project Title Three]
 **The Problem:** [Briefly explain the automated pipeline or analysis performed.]
