@@ -2,27 +2,12 @@
   <tr>
     <td><img src="https://github.com/yourusername.png" width="150" style="border-radius: 50%;"></td>
     <td>
-      <h1>[Your Name]</h1>
+      <h1>Deborah Ike</h1>
       <p><b>Data Professional | Insights & Analytics</b></p>
-      <a href="your-cv-link.com">📄 View My CV</a> • <a href="linkedin.com/in/yourprofile">🔗 LinkedIn</a>
+      <a href="your-cv-link.com"> View My CV</a> | <a href="mailto:chikadeborahike@gmail.com"> Email </a> | <a href="https://www.linkedin.com/in/deborah-i-7772a6a3?"> LinkedIn</a>
     </td>
   </tr>
 </table>
-
----
-
-
-
-<p align="center">
-  <img src="https://github.com/yourusername.png" width="200" style="border-radius: 50%;">
-</p>
-
-<h1 align="center">Deborah Ike</h1>
-<p align="center"><b>Data Professional specializing in Data Analysis</b></p>
-
-<p align="center">
-  <a href="your-cv-link.com"> View My CV</a> | <a href="mailto:chikadeborahike@gmail.com"> Email </a> | <a href="https://www.linkedin.com/in/deborah-i-7772a6a3?"> LinkedIn</a>
-</p>
 
 ---
 
