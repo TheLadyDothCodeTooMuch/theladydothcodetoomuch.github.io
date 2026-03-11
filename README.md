@@ -4,7 +4,7 @@
     <td>
       <h1>Deborah Ike</h1>
       <p><b>Data Professional | Insights & Analytics</b></p>
-      <a href="your-cv-link.com"> View My CV</a> | <a href="mailto:chikadeborahike@gmail.com"> Email </a> | <a href="https://www.linkedin.com/in/deborah-i-7772a6a3?"> LinkedIn</a>
+      <a href="https://drive.google.com/file/d/1DaWYrJsqN8uebcSFvZuzrqSfDTvVJSTZ/view?"> View My CV</a> | <a href="mailto:chikadeborahike@gmail.com"> Email </a> | <a href="https://www.linkedin.com/in/deborah-i-7772a6a3?"> LinkedIn</a>
     </td>
   </tr>
 </table>
