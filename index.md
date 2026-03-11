@@ -1,0 +1,4 @@
+___
+layout: home
+author_profile: true
+___
