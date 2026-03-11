@@ -2,11 +2,11 @@
   <img src="https://github.com/yourusername.png" width="200" style="border-radius: 50%;">
 </p>
 
-<h1 align="center">[Deborah Ike]</h1>
+<h1 align="center">Deborah Ike</h1>
 <p align="center"><b>Data Professional specializing in Data Analysis</b></p>
 
 <p align="center">
-  <a href="your-cv-link.com">📄 View My CV</a> | <a href="linkedin.com/in/yourprofile](https://www.linkedin.com/in/deborah-i-7772a6a3?">🔗 LinkedIn</a>
+  <a href="your-cv-link.com">📄 View My CV</a> | <a href="mailto:chikadeborahike@gmail.com">📫 Email </a> | <a href="https://www.linkedin.com/in/deborah-i-7772a6a3?">🔗 LinkedIn</a>
 </p>
 
 ---
