@@ -47,4 +47,4 @@ Welcome to my project showcase. I focus on translating complex datasets into act
 ## 📫 Let's Connect
 * **LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/deborah-i-7772a6a3?)
 * **Email:** [your.email@example.com](mailto:chikadeborahike@gmail.com)
-* **Portfolio Site:** [yourwebsite.com](https://yourwebsite.com)
+* **Portfolio Site:** [yourwebsite.com](theladydothcodetoomuch.github.io)
