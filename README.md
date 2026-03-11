@@ -19,7 +19,7 @@ Welcome to my project showcase. I focus on translating complex datasets into act
 
 ### 1. Financial-Fraud-Forensic-Analytics
 **The Problem:** LOL Bank Pvt. Ltd. struggled to identify specific patterns in fraudulent activity because their transaction data was disorganized and lacked clear insights into when or how customers were being targeted.
-* **Key Achievement:** Delivered actionable intelligence that pinpointed the exact times and customer groups most vulnerable to scams, allowing the bank to focus its security resources on high-risk areas to prevent financial loss..
+* **Key Achievement:** Delivered actionable intelligence that pinpointed the exact times and customer groups most vulnerable to scams, allowing the bank to focus its security resources on high-risk areas to prevent financial loss.
 * **Tech Stack:** `Python (Pandas)`, `SQL`, `Tableau`
 * **[🔗 View Repository](https://github.com/TheLadyDothCodeTooMuch/Transaction-Processing-Fraud-Analysis-System.git)** 
 
