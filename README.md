@@ -11,7 +11,7 @@
 
 ---
 
-Welcome to my project showcase. I focus on translating complex datasets into actionable business strategies and automated solutions.
+Welcome to my project showcase. I focus on translating complex datasets into actionable business strategies and automated solutions. I specialize in turning data chaos into business clarity. A lot of companies have plenty of data, but very few have answers. I bridge that gap. Whether I am protecting a bank’s revenue from fraud, helping a store understand its most profitable customers, or building a single source of truth for an entire business, my goal is the same: to ensure leaders have the right information to make the right moves.
 
 ---
 
@@ -20,7 +20,7 @@ Welcome to my project showcase. I focus on translating complex datasets into act
 ### 1. Financial Fraud Forensic Analytics - LOL Bank Pvt. Ltd
 **The Problem:** LOL Bank Pvt. Ltd. struggled to identify specific patterns in fraudulent activity because their transaction data was disorganized and lacked clear insights into when or how customers were being targeted.
 * **Key Achievement:** Delivered actionable intelligence that pinpointed the exact times and customer groups most vulnerable to scams, allowing the bank to focus its security resources on high-risk areas to prevent financial loss.
-* **Tech Stack:** `Python (Pandas)`, `SQL (MSSQL)`, `Tableau`
+* **Tech Stack:** `Python (Pandas)`, `SQL (T-SQL)`, `Tableau`
 * **[🔗 View Repository](https://github.com/TheLadyDothCodeTooMuch/Transaction-Processing-Fraud-Analysis-System.git)** 
 
 ### 2. E-Commerce Growth & Customer Intelligence - OmniMart
@@ -29,11 +29,11 @@ Welcome to my project showcase. I focus on translating complex datasets into act
 * **Tech Stack:** `Python (Pandas, SQLAlchemy, Faker)`, `SQL (MySQL)`, `Power BI`
 * **[🔗 View Repository](https://github.com/TheLadyDothCodeTooMuch/OmniMart_Store_Analysis.git)**
 
-### 3. [Project Title Three]
-**The Problem:** [Briefly explain the automated pipeline or analysis performed.]
-* **Key Achievement:** Automated a manual reporting process, saving the team **X hours per week**.
-* **Tech Stack:** `SQL (PostgreSQL)`, `BeautifulSoup`, `AWS`
-* **[🔗 View Repository](https://github.com/yourusername/project3)**
+### 3. Business Intelligence Foundation - BarStore
+**The Problem:** BarStore was struggling with data chaos. Their records were scattered across different platforms, often contained errors, and gave conflicting answers to simple business questions
+* **Key Achievement:** I built a centralized digital headquarters for the store's data that automatically cleans up mistakes and organizes everything into a clear, reliable format for the management team. I also developed a series of automated smart views that categorize every customer and product by their value to the company, enabling the management team to see exactly who their VIPs are and which products drive 80% of their revenue
+* **Tech Stack:** `SQL (T-SQL)`
+* **[🔗 View Repository](https://github.com/TheLadyDothCodeTooMuch/bar_store_analysis.git)**
 
 ---
 
